@@ -48,6 +48,13 @@ With the advancement of AI technologies, generating audio content such as backgr
 - **Voice Narration:** Specifying voice attributes such as gender, age, and accent improved the naturalness and appropriateness of narration.  
 - **Limitations:** Some complex instructions led to vague or unintended audio outputs, indicating the need for prompt refinement or model improvement.
 
+## Tools Used
+> AI Models:
+- OpenAI's Audio Generation API
+- ElevenLabs (for voice synthesis)
+- Riffusion (for music generation)
+- Audio Editing: Audacity, FL Studio (for post-processing if needed)
+
 ## Results  
 The experiment successfully demonstrated that AI-based audio generation responds significantly to the structure and detail of prompts. Varied prompting techniques can manipulate audio characteristics, enabling custom music, sound effects, and voice narration generation. The prompt for the process executed successfully, validating the use of prompt engineering in AI-driven audio content creation.
 
